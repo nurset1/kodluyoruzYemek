@@ -1,0 +1,38 @@
+p.oblique
+{
+    font-style: oblique;
+    font-weight: bold;
+}
+.p-color
+{
+    color: red;
+}
+.left
+{
+    padding-right:50px;
+    float: left;
+    list-style-type:none;
+    text-decoration: underline;
+}
+
+.container
+{
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    
+
+}
+
+.clear
+{
+    margin-top: 100px;
+    clear: both;
+}
+
+.left-h2
+{
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+}
